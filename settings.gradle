@@ -1,0 +1,2 @@
+rootProject.name='Inference'
+include ':app'

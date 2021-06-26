@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Inference</string>
+    <string name="player_name">Player Name</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="email_id">Email-id</string>
+    <string-array name="color_name">
+        <item>Ms. Snowy White</item>
+        <item>Mrs. Twilight Pink</item>
+        <item>Ms. Blood Red</item>
+        <item>Mrs. Lush Green</item>
+        <item>Mr. Dusky Brown</item>
+        <item>Mr. Royal Blue</item>
+        <item>Mr. Mystic Purple</item>
+        <item>Mr. Elegant Black</item>
+    </string-array>
+</resources>

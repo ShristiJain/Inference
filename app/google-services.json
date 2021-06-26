@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85558781337",
+    "project_id": "inference-a4c22",
+    "storage_bucket": "inference-a4c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85558781337:android:cde77b806113f18651df08",
+        "android_client_info": {
+          "package_name": "com.example.inference"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85558781337-sgb4pvmupg7rv3tncrb5njifgotbnkls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwVdKqTKlgDXNZ0xLmvtjqKPrO8cXqSgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85558781337-sgb4pvmupg7rv3tncrb5njifgotbnkls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
